@@ -1,19 +1,17 @@
 <h1>Olá, eu sou o Kleber!</h1>
 
-<p >
+<p>
   💻Ciência da Computação (2024-2027) <br>
-  
-  
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 📚 Atualmente no 4º semestre de Ciência da Computação
-- 💡 Estudando HTML, CSS, JavaScript e frameworks como React
-- 👨‍💻 Buscando uma oportunidade de estágio para evoluir como profissional
-- 🌱 Em constante aprendizado 
+- 📚 Atualmente no 4º semestre de Ciência da Computação  
+- 💡 Estudando HTML, CSS, JavaScript e frameworks como React  
+- 👨‍💻 Buscando uma oportunidade de estágio para evoluir como profissional  
+- 🌱 Em constante aprendizado  
 
 ---
 
@@ -60,6 +58,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br><br><br>
+
 ---
 
 ### 📈 GitHub Stats
@@ -70,7 +70,6 @@
 </p>
 
 ---
-
 
 ### 📌 Projetos em destaque
 
