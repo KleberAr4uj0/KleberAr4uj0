@@ -82,6 +82,7 @@
 
 </p>
 
+<br><br><br>
 ---
 
 ### 📌 Projetos em destaque
