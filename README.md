@@ -1,28 +1,64 @@
-<h1 align="center">Olá, eu sou o Kleber! 👋</h1>
+<h1>Olá, eu sou o Kleber!</h1>
 
-<p align="center">
-  💻 Estudante de Ciência da Computação <br>
-  🎯 Focado em desenvolvimento Front-End <br>
-  🚀 Apaixonado por aprender tecnologias novas <br>
+<p >
+  💻Ciência da Computação (2024-2027) <br>
+  
+  
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 📚 Atualmente no 3º semestre de Ciência da Computação
+- 📚 Atualmente no 4º semestre de Ciência da Computação
 - 💡 Estudando HTML, CSS, JavaScript e frameworks como React
-- 👨‍💻 Buscando uma oportunidade de estágio para evoluir com profissionais experientes
-- 🌱 Em constante aprendizado e desenvolvimento de projetos
+- 👨‍💻 Buscando uma oportunidade de estágio para evoluir como profissional
+- 🌱 Em constante aprendizado 
 
 ---
 
 ### 🛠️ Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 ---
 
