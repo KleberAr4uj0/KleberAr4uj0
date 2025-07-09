@@ -62,7 +62,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estatísticas
 
 <p>
   <img 
