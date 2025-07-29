@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 
 - 📚 Atualmente no 4º semestre de Ciência da Computação  
-- 💡 Estudando HTML, CSS, JavaScript e frameworks como React  
+- 💡 Estudando desenvolvimento full stack 
 - 👨‍💻 Buscando uma oportunidade de estágio para evoluir como profissional  
 - 🌱 Em constante aprendizado  
 
