@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mim
 
-- 📚 Atualmente no 4º semestre de Ciência da Computação  
+- 📚 Atualmente no 5º semestre de Ciência da Computação  
 - 💡 Estudando desenvolvimento full stack 
 - 👨‍💻 Buscando uma oportunidade de estágio para evoluir como profissional  
 - 🌱 Em constante aprendizado  
