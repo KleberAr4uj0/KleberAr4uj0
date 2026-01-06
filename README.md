@@ -57,33 +57,47 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br><br><br>
-
----
-
-### 📈 Estatísticas
-
-<p>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KleberAr4uj0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleberAr4uj0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    alt="NestJS"
+    title="NestJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
 
-<br clear="both" />
+<img 
+    align="left" 
+    alt="Prisma"
+    title="Prisma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+
+<br><br>
 
 ---
+
 
 ### 📌 Projetos em destaque
 
