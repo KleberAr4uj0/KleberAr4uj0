@@ -9,7 +9,6 @@
 ### 🧠 Sobre mim
 
 - 📚 Atualmente no 5º semestre de Ciência da Computação  
-- 👨‍💻 Buscando uma oportunidade de estágio para evoluir como profissional  
 - 🌱 Em constante aprendizado  
 
 ---
