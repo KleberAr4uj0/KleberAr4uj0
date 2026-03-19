@@ -97,10 +97,7 @@
 ---
 
 
-### 📌 Projetos em destaque
 
-- 🛍️ **BrechóBox** – Aplicativo para incentivar o consumo consciente entre jovens  
-  🔗 [Acesse o repositório](https://github.com/Unifacs-Portfolio/brecho-box-app)
 
 
 
