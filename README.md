@@ -15,22 +15,13 @@
 
 <h3>🚀 Stack Principal</h3>
 
-<div align="center"><br>
+<div align="center">
 
-<img align="center" alt="JavaScript" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="TypeScript" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-
-<img align="center" alt="Node.js" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-<img align="center" alt="Express" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-
-<img align="center" alt="NestJS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
+<img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="display:inline-block; margin:5px;">
+<img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="display:inline-block; margin:5px;">
+<img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="display:inline-block; margin:5px;">
+<img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="display:inline-block; margin:5px;">
+<img alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="display:inline-block; margin:5px;">
 
 </div>
 
@@ -38,25 +29,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.s
 
 <h3>🧩 Outras Tecnologias</h3>
 
-<div align="center"><br>
+<div align="center">
 
-<img align="center" alt="React" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
-<img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="PostgreSQL" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-<img align="center" alt="Prisma" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
-
-<img align="center" alt="Git" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="display:inline-block; margin:5px;">
+<img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="display:inline-block; margin:5px;">
+<img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="display:inline-block; margin:5px;">
+<img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="display:inline-block; margin:5px;">
+<img alt="Prisma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="display:inline-block; margin:5px;">
+<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="display:inline-block; margin:5px;">
 
 </div>
 
