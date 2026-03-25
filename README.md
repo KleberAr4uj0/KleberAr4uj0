@@ -15,7 +15,7 @@
 
 <h3>🚀 Stack Principal</h3>
 
-<div align="center">
+<div >
 
 <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="display:inline-block; margin:5px;">
 <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="display:inline-block; margin:5px;">
@@ -29,7 +29,7 @@
 
 <h3>🧩 Outras Tecnologias</h3>
 
-<div align="center">
+<div >
 
 <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="display:inline-block; margin:5px;">
 <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="display:inline-block; margin:5px;">
