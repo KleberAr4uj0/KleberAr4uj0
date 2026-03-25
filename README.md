@@ -5,7 +5,8 @@
 </p>
 
 <p>
-  Gosto da área de desenvolvimento web e de transformar ideias em projetos reais.<br>
+  Gosto da área de desenvolvimento web e de transformar ideias em projetos reais.
+  <br>
   Se algo me chama atenção, provavelmente vou tentar criar e aprender no processo.
 </p>
 
