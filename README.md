@@ -22,6 +22,9 @@
 <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="display:inline-block; margin:5px;">
 <img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="display:inline-block; margin:5px;">
 <img alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="display:inline-block; margin:5px;">
+<img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="display:inline-block; margin:5px;">
+<img alt="Prisma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="display:inline-block; margin:5px;">
+<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="display:inline-block; margin:5px;">
 
 </div>
 
@@ -34,9 +37,8 @@
 <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="display:inline-block; margin:5px;">
 <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="display:inline-block; margin:5px;">
 <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="display:inline-block; margin:5px;">
-<img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="display:inline-block; margin:5px;">
-<img alt="Prisma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="display:inline-block; margin:5px;">
-<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="display:inline-block; margin:5px;">
+
+
 
 </div>
 
