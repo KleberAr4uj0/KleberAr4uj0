@@ -1,7 +1,7 @@
 <h2>E aí! 👋</h2>
 
 <p>
-  Eu sou o Kleber, estudante de Ciência da Computação.
+  Eu sou Kleber, estudante de Ciência da Computação.
 </p>
 
 <p>
