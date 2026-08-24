@@ -47,7 +47,7 @@
 <h2>🚀 O que estou fazendo</h2>
 
 <ul>
-  <li>🎓 Cursando Ciência da Computação (5º semestre)</li>
+  <li>🎓 Cursando Ciência da Computação (6º semestre)</li>
   <li>💡 Evoluindo como desenvolvedor Full Stack</li>
   <li>🛠️ Desenvolvendo projetos para ganhar experiência prática</li>
 </ul>
